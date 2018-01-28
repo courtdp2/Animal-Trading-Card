@@ -1,0 +1,29 @@
+/* add your CSS here */
+body {
+    background: #999999;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman';
+}
+img {
+    width: 300px;
+    padding: 1em;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+.card {
+    border: 1px solid black;
+    width: 450px;
+    padding: 1em;
+}
+.title {
+    font-size: 42;
+    font-weight: bold;
+}
+
+.card-info {
+    border: 1px solid #d3d3d3;
+    padding: 1em;
+}
